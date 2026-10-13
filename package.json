@@ -1,0 +1,10 @@
+{
+  "name": "kontext-degradation-selbst-ausloesen",
+  "version": "1.0.0",
+  "description": "Uebung: Kontext-Degradation selbst ausloesen und dokumentieren",
+  "type": "module",
+  "scripts": {
+    "build-prompt": "node src/buildPrompt.js"
+  },
+  "license": "MIT"
+}

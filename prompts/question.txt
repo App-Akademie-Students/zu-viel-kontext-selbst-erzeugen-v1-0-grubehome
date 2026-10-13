@@ -1,0 +1,1 @@
+Was gibt parseDiscountCode("  vip1") zurueck, und welche Zeile ist dafuer ausschlaggebend?
